@@ -2,7 +2,7 @@
 
 I’m a 26-year-old software developer based in the US.
 <p align="center">
-  <img src="profile.png" alt="Alan Colvin" >
+  <img src="profile.png" alt="Alan Colvin" width="400">
 </p>
 
 Currently working on **NEXUM** — a privacy-first anti-detection browser focused on isolation, control, and transparency.
