@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I’m Alan Colvin 👋
 
-<!--
-**NexumAnty/NexumAnty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a 26-year-old software developer based in the US.
 
-Here are some ideas to get you started:
+Currently working on **NEXUM** — a privacy-first anti-detection browser focused on isolation, control, and transparency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is a solo project at an early stage.  
+I’m prioritizing architecture, security, and long-term maintainability over fast releases.
+
+### What I’m working on
+- Browser session isolation
+- Fingerprint control & stabilization
+- Local-first encrypted storage
+- Threat modeling & security design
+
+### Current focus
+- Designing a clean, auditable core
+- Avoiding black-box behavior
+- Building something I would trust myself
+
+I believe good infrastructure is built slowly and honestly.
+
+---
+
+📌 **Project:**  
+→ https://github.com/nexumanty/NEXUM
