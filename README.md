@@ -1,8 +1,8 @@
 ## Hi, I’m Alan Colvin 👋
 
 I’m a 26-year-old software developer based in the US.
-<p align="center">
-  <img src="NexumBuilding.png" alt="Alan Colvin" width="240">
+<p align="right" style="border-radius:25px;">
+  <img src="NexumBuilding.png" alt="Alan Colvin" width="240" style="border-radius:25px;">
 </p>
 
 Currently working on **NEXUM** — a privacy-first anti-detection browser focused on isolation, control, and transparency.
